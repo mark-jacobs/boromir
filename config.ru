@@ -1,2 +1,2 @@
-require 'boromir'
-run boromir.new
+require './basics'
+run Sinatra::Application
