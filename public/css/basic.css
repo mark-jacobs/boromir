@@ -1,0 +1,48 @@
+
+
+h1 {
+  font-family: Helvetica;
+  color: black;
+  text-align: center;
+  text-align: top;
+  font-size: 75px;
+  color: rgb(50,50,50);
+}
+
+h2 {
+  font-family: Helvetica;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  color: rgb(50,50,50);
+}
+
+p {
+  text-align: center;
+  font-family: Helvetica;
+  color: rgb(76, 77, 74);
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+
+body {
+  background-color: rgb(240,240,240);
+
+}
+
+img {
+  border: 2px solid rgb(76,77,74);
+}
+
+.image {
+  text-align: center; 
+
+}
+
+.footer {
+  background-color: rgb(230,230,230);
+  background-position: center;
+}
+
+
