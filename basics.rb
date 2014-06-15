@@ -2,12 +2,12 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  #redirect '/boromir/'
+  redirect '/boromir/'
 
 end
 
 get '/boromir/' do 
-  #{}"Use path /boromir/ then things&boromir&should&say" 
+  "Use path /boromir/ then things&boromir&should&say" 
 end
 
 get '/boromir/:simple' do
